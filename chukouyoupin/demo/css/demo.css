@@ -1,0 +1,68 @@
+img{vertical-align: top;}
+.shang{height:125px;background: url(../img/1.jpg) repeat-x;}
+.nei,.xia{width: 1000px;margin:0 auto;}
+.nei .left ul li{float: left;margin-top: 15px;padding-left: 24px;}
+.nei .left ul li.frist{padding-left: 0px;}
+.nei .right{float: right;margin-top:15px;}
+.nei .right ul li{float: left;}
+.nei .top{height:80px;}
+.dh li{float: left;height: 45px;line-height: 45px;background: url(../img/7.jpg) repeat-x;width: 117px;text-align: center;}
+.dh li a{color: #FFFFFF;font-size: 15px;font-family: "Microsoft YaHei";}
+.dh li.frist{width: 190px;background: url(../img/8.jpg) repeat-x;text-indent: -59px;}
+.dh li.bj{background:url(../img/9.jpg)no-repeat;}
+.neirong{height: 530px;}
+.beijing{background: #EDEDED;}
+.neirong .left{width:190px;height: 530px;float: left;background: #464C6F; }
+.neirong .middle{width:600px;height: 530px;float: left; }
+.neirong .right{width:194px;margin-left: 10px;height: 510px;float: left; }
+.neirong .dl{margin-left: 25px;}
+.neirong .dl li{margin-top: 15px;}
+.neirong .dl p{background: url(../img/12.jpg) 0 8px no-repeat;}
+.neirong .dl p a{color: #A1A7CD;padding-left: 14px;}
+.neirong .dl p.frist{color:#FE5436;font-size: 15px;background: none;}
+.neirong .dl p.zh{width: 134px;overflow:hidden;}
+.jybd, .xszk, .right{margin-top: 10px;}
+.jybd{position: relative;overflow: hidden;height: 300px;}
+.jybd .shuzi{width: 70px;height: 16px;overflow:hidden;position:absolute; right:5px;bottom:5px;}
+.jybd .shuzi li{float: left;width: 16px;height: 16px;display: block;background: #7C7778;color:#FFFFFF;text-align: center;line-height: 16px;cursor:pointer;margin-right: 2px;}
+.jybd .shuzi li.last{margin-right:0;}
+.neirong .right{border: 3px solid #D2D2D2;}
+.neirong .right .biaoti{border-bottom: 2px solid #32364F;height: 27px;width: 184px;margin-left: 5px;}
+.neirong .right .biaoti .jrtg{float: left;margin-top: 3px;}
+.neirong .right .biaoti .more{float: right;margin-top:12px;}
+.neirong .right .good li{display: block;} 
+.neirong .right .good li .price{width: 192px;height: 44px;background: url(../img/18.jpg);margin-left:1px;overflow: hidden;}
+.neirong .right li .p3{text-indent:10px;height:34px;line-height:40px;}
+.neirong .right li .p3 a{color: #73747E;}
+.neirong .good li .pic img{margin:5px 0 0 25px;}
+.neirong .good{background:color:#FFFFFF;}
+.neirong .good .jiage{width: 133px;float: left;}
+.neirong .good .zhekou{width: 59px;float: left;}
+.neirong .good .jiage .p1{color:#FFFFFF;text-decoration: line-through;margin-left: 10px;}
+.neirong .good .jiage .p2{color:#FFFFFF;margin-left: 10px;font-size: 20px;}
+.neirong .good .zhekou .p1{color:#FFFFFF;margin-left:10px;font-size: 16px;}
+.neirong .good .zhekou .p2{color: #FFFFFF;margin-left:10px;}
+.taxt{width: 1000px;}
+.taxt .zuo{width: 190px;margin-top: 41px;float: left;}
+.taxt .you{float: left;width: 810px;height:304px;margin-top: 41px;}
+.xpsj .shang2{float: left;}
+.xpsj .shang2 .title{margin-top: 36px;}
+.tupian1{width: 998px;height:330px;float: left;border: 1px solid #D2D2D2;}
+.tupian1 ul li{float: left;}
+.tupian1 ul p.heng{float: left;}
+.tupian1 ul li p.wenzi{margin-top:6px;text-indent: 10px;height: 15px;font-family: "Microsoft YaHei";}
+.tupian1 ul li p.jia{margin-top: 2px;text-indent: 15px;text-decoration: line-through;height: 16px;line-height: 16px;}
+.tupian1 ul li p.wenzi a{color: #ABACB2;}
+.tupian1 ul li p.jia{color: #ABACB2;}
+.tupian1 li .span{font-weight: bold;font-size: 18px;color:#FF2400;float: left;text-indent: 15px;}
+.rqbk  .title1{float: left;margin-top: 36px;}
+.huodong .love{float:left;margin-top: 32px;margin-bottom: 12px;}
+.jiewei .si{width: 1000px;height: 200px;}
+.jiewei .si ul li{width: 245px;height: 200px;float: left;margin-left: 7px;}
+.jiewei .si ul li.frist{margin-left:0;background: #53637A;}
+.jiewei .si ul li.two{background: #A7A19F;}
+.jiewei .si ul li.three{background: #945434;}
+.jiewei .si ul li.last{margin-left: 6px;background: #716A64;}
+.jiewei .si ul li a{font-weight: bold;color: #FFFFFF;}
+.jiewei .si ul li p.table1{color: #FFFFFF;font-size: 16px;font-weight: bold;font-family: "Microsoft YaHei";text-indent: 10px;}
+.jiewei .si ul li p.table{text-indent: 10px;margin-top: 4px;}

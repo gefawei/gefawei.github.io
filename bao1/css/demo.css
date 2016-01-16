@@ -1,0 +1,13 @@
+body{background: #B3DFC8;}
+.box{background: url(../img/yifu3.jpg) 50% 0% no-repeat;}
+.box2{width:990px;margin:0 auto;}
+.yifu1-ass{width: 990px;}
+.yifu1-ass li{float:left;border:1px solid#A6D3BC;margin-left:14px;background:#007376;height:300px;margin-bottom:16px;}
+.yifu1-ass li.frist{margin-left:0;}
+.yifu1-ass .text{font-size: 16px;text-align:center;width:235px;overflow: hidden;height:24px;line-height:24px;}
+.yifu1-ass .text a{color: #AFDBC4;}
+.yifu1-ass .price{color: #FFAE00;font-weight: bold;}
+.yifu1-ass .price span{font-size: 24px;}
+
+.box3{margin-left: 3px;}
+.box4{background: #088388;height:163px;margin-top: 52px;}

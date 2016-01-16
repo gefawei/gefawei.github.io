@@ -1,0 +1,68 @@
+img{vertical-align: top;}
+.shang{height: 125px;background: url(../img/6.jpg) repeat-x;}
+.neirong,.xia,.nei{width: 1000px;margin: 0 auto;}
+.neirong .top{height: 80px;}
+.neirong .left ul li{float: left;margin-top:18px;}
+.neirong .right{float: right;}
+.neirong .right ul li{float: left;margin-top: 18px;}
+.neirong .dh ul li{float: left;height: 45px;line-height: 45px;background: url(../img/7.jpg) repeat-x;width: 117px;text-align: center;}
+.neirong .dh ul li a{color: #FFFFFF;font-size: 15px;font-family: "Microsoft YaHei";font-weight: bold;}
+.neirong .dh ul li.one{width: 190px;background: url(../img/8.jpg);text-indent: -59px;}
+.neirong .dh ul li.qi{background:url(../img/9.jpg) no-repeat;}
+.nei{height: 530px;}
+.zhongjian{height:530;background: #EDEDED;}
+.nei .left{width: 190px;height:530px;float: left;background: #464C6F;}
+.nei .middle{width: 600px;height: 530px;float: left;}
+.nei .right{width:194px;height: 504px;float: left;margin-left: 10px;}
+.bj1{background: #EDEDED;}
+.nei .left .dl{margin-left: 25px;}
+.nei .left .dl li{margin-top: 15px;}
+.nei .left .dl li p.frist{font-size: 15px;color: #FE5436;background: none;font-family: "Microsoft YaHei";}
+.nei .left .dl li p a{color: #FFFFFF;padding-left: 14px;width: 130px;display: block;}
+.nei .left .dl li p{background: url(../img/15.jpg) 0 8px no-repeat;}
+.jybd,.xszk,.right{margin-top: 10px;}
+.nei .jybd{height: 300px;position: relative;overflow: hidden;}
+.nei .jybd .shu{width: 70px;height: 16px;position: absolute;right:5px;bottom: 5px;}
+.nei .jybd .shu li{float: left;width: 16px;height: 16px;background: #7B7777;color:#FFFFFF;margin-left: 2px;line-height: 16px;text-align: center;cursor:pointer;}
+.nei .jybd .shu li.frist{margin-left: 0;}
+.nei .right{border: 3px solid #D2D2D2;background: #FFFFFF;}
+.nei .right .jrtg{float: left;margin-top: 8px;}
+.nei .right .more{float: right;margin-top: 8px;}
+.nei .right .title{border-bottom: 2px solid #32364F;height: 27px;width:184px;margin-left: 5px;}
+.nei .god .wenzi{text-indent:10px;height:34px;line-height:40px;}
+.nei .god .wenzi a{color: #73747E;}
+.nei .god .price{width:192px;height:44px;background: url(../img/21.jpg);margin-left: 1px;overflow: hidden;}
+.nei .god .jiage{width: 133px;float: left;}
+.nei .god .zhekou{width: 59px;float: left;}
+.nei .god .jiage .p1{color:#FFFFFF;text-decoration: line-through;margin-left: 10px;font-weight: bold;margin-top: 3px;}
+.nei .god .jiage .p2{color:#FFFFFF;margin-left: 10px;font-size: 19px;font-weight: bold;margin-top: -5px;}
+.nei .god .zhekou .p1{color:#FFFFFF;margin-left:10px;font-size: 16px;font-weight: bold;margin-top: 4px;}
+.nei .god .zhekou .p2{color: #FFFFFF;margin-left:10px;font-size:13px;font-weight: bold;margin-top: -6px;}
+.nei .two{width: 1000px;}
+.two .zuo{width: 190px;margin-top: 41px;float: left;}
+.two .you{width: 810px;height: 304px;float: left;margin-top: 41px;}
+.san .title{margin-top: 35px;float: left;}
+.tu{width:998px;height: 330px;float: left;border: 1px solid #D2D2D2;}
+.tu li{float: left;}
+.tu img.shu{float: left;}
+.tu p.wenzi{font-family: "Microsoft YaHei";margin-top: 5px;text-indent: 12px;height: 16px;line-height: 16px;font-size: 15px;}
+.tu p.wenzi a{color: #ABACB2;}
+.tu p.jia{height: 20px;line-height: 20px;text-indent: 12px;color: #ABACB2;font-weight: bold;}
+.tu p.jia span.red{font-size: 18px;color:#FF2400;margin-left: 5px;}
+.tu p.jia span.red1{text-decoration: line-through;}
+.si .title1{float: left;margin-top: 36px;}
+.tu1{width:998px;height: 330px;float: left;border: 1px solid #D2D2D2;}
+.tu1 li{float: left;}
+.tu1 img.shu{float: left;}
+.tu1 p.wenzi{font-family: "Microsoft YaHei";margin-top: 5px;text-indent: 12px;height: 16px;line-height: 16px;font-size: 15px;}
+.tu1 p.wenzi a{color: #ABACB2;}
+.tu1 p.jia{height: 20px;line-height: 20px;text-indent: 12px;color: #ABACB2;font-weight: bold;text-decoration: line-through;}
+.tu1 .liang p.red{float: left;font-size: 16px;color:#FF2400;margin-left: 7px;font-weight:bold;margin-top: -4px;}
+.tu1 .liang p.four{float: right;text-indent: -5px;margin-right: 22px;}
+
+.five .huodong{float: left;margin-top: 35px;margin-bottom: 12px;}
+.jiewei{float: left;}
+.jiewei a:link {color: #FF0000}
+a:visited {color: #00FF00}
+a:hover {color: #FF00FF}
+a:active {color: #0000FF}

@@ -1,0 +1,14 @@
+body{background: #b3dfc8;}
+.box{background: url(../img/bg.jpg) 50% 0% no-repeat;}
+.box2{width:990px;margin:0 auto;}
+.good{width:990px;}
+.goods li{float: left;border:1px solid#A6D3BC;margin-left:14px;background: #007376;height:300px;margin-bottom: 16px;}
+.goods li.first{margin-left:0;}
+.goods .text{font-size: 16px;text-align: center;width: 235px;overflow:hidden;height:24px;line-height: 24px;}
+.goods .text a{color:#AFDBC4;}
+.goods .price{color: #FFAE00;font-weight: bold;margin-top: -4px;}
+.goods .price span{font-size: 24px;}
+
+.box3{margin-left:-1px;}
+.box4{background: #088388;height:163px;margin-top:52px;}
+ 

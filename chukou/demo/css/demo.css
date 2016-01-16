@@ -1,0 +1,61 @@
+img{vertical-align: top;}
+body{font-family: "Microsoft YaHei";}
+.shangmian{height:125px;background: url(../img/1.jpg) repeat-x;}
+.neirong,.xiamian{width:1000px;margin:0 auto;}
+.neirong .left{float:left;margin-top:18px;}
+.neirong .right{float:right;margin-top:18px;}
+.neirong .top{height:80px;}
+.nav li{float:left;display:block;height:45px;line-height:45px;background: url(../img/5.jpg) repeat-x;width:117px;text-align: center;}
+.nav li a{color: #FFFFFF;font-size: 15px;font-family: "Microsoft YaHei";}
+.nav li.first{background: url(../img/4.jpg) repeat-x;width: 190px;text-indent:-59px;}
+.nav li.selected{background: url(../img/6.jpg) no-repeat;}
+.munu{height:530px;}
+.munu .left{width:190px;float:left;height:530px;background: #464C6F;}
+.munu .middle{width:600px;float:left;height:530px;}
+.munu .right{width:194px;margin-left:10px;float:left;height:510px;}
+.munu .items{margin-left:25px;}
+.munu .items li{margin-top:15px;}
+.munu .items p{color:#A1A7CD;font-family: "Microsoft YaHei";background: url(../img/9.jpg) 0 8px no-repeat;padding-left:14px;}
+.munu .items p.first{color:#FE5436;font-size:14px;background: none;}
+.munu .items p a{color:#A1A7CD;}
+.foucs,.xszk,.right{margin-top:10px;}
+.foucs{height:300px;overflow: hidden;position: relative;}
+.foucs .shuzi{position: absolute;width:70px;height: 16px;overflow: hidden;bottom: 5px;right: 5px;}
+.foucs .shuzi li{width:16px;cursor:pointer;height:16px;display:block;float:left;background: #7B7777;margin-right:2px;text-align: center;color:#ffffff;line-height:16px;}
+.foucs .shuzi li.last{margin-right:0;}
+.foucs .shuzi li.active{background: #FF3C1E;font-weight: bold;}
+
+
+.munu .right{border:3px solid #D2D2D2;}
+.munu .right .title{border-bottom: 2px solid #32364F;width:184px;margin-left:5px;height:27px;}
+.munu .right .title .jrtg{float:left;margin-top:4px;}
+.munu .right .title .more{float:right;margin-top:4px;}
+.munu .right .goods li{display: block;}
+.munu .right .goods li .price{width:192px;height:44px;background: url(../img/15.jpg);margin-left:1px;overflow: hidden;}
+.munu .right .goods li .p3{color: #73747E;text-indent:10px;height:33px;line-height:33px;}
+.munu .right .goods li .pic img{margin:13px 0 0 16px;}
+.munu .right .goods li.last{margin-top:3px;}
+.munu .right .goods .jiage{width:133px;float:left;}
+.munu .right .goods .zhekou{width:59px;float:left;}
+.munu .right .goods .jiage .p1 a{color:#FFFFFF;text-decoration: line-through;margin-left:10px;}
+.munu .right .goods .jiage .p2{color: #FFFFFF;font-size: 16px;margin-left:10px;}
+.munu .right .goods .zhekou .p1{color:#FFFFFF;margin-left:10px;font-size: 16px;}
+.munu .right .goods .zhekou .p2{color: #FFFFFF;margin-left:10px;}
+.float{position: fixed;top:135px;right: 170px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

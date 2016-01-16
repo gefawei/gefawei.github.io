@@ -1,0 +1,219 @@
+img{vertical-align: top;}
+
+.shang{background: url(../img/000.jpg);}
+.shang-nei{width:990px;margin:0 auto;}
+.shang-nei-one{height:25px;padding-bottom: 1px;}
+.shang-nei-one-l{float: left;}
+.shang-nei-one-l ul li{float: left;margin-top: 4px;margin-right: 5px;}
+.shang-nei-one-l ul li.t a{color:#0B72A4;}
+.shang-nei-one-r{float: right;}
+.shang-nei-one-r ul li{float: left;margin-left: 5px;margin-right:5px;margin-top: 5px; }
+.shang-nei-one-r ul li a{color:#666666;}
+
+
+.shang-nei-two{height:80px;padding-bottom: 1px;}
+.shang-nei-two-l{float: left;}
+.shang-nei-two-r{float: right;width:523px;height:29px;margin-top: 25px;}
+.shang-nei-two-l ul li{float: left;margin-top: 20px;margin-right: 10px;}
+.shang-nei-two-r-l{width:370px;height:25px;border: 2px solid #BF0000;float: left;}
+.shang-nei-two-r-z{width:87px;height:29px;float: left;background: #BF0000;text-align: center;line-height: 29px;color:#FFFFFF;font-weight: bold;}
+.shang-nei-two-r-r{width:60px;height:29px;float: left;margin-left: 2px;background: #EC7B0F;text-align: center;line-height: 29px;color:#FFFFFF;font-weight: bold;}
+.shang-nei-two-r-l-l{width:52px;height:25px;float: left;border-right:1px solid #E0E0E0;border-left: 1px solid #E0E0E0;background: #F7F7F7;text-align: center;line-height: 25px;}
+.shang-nei-two-r-l-l a{padding-right: 3px;}
+
+
+.shang-nei-three{height: 32px;}
+.shang-nei-three-y ul li{width:90px ;height:32px;float: left;text-align: center;line-height: 32px;}
+.shang-nei-three-y ul li.right{float: right;}
+.shang-nei-three-y ul li a{color:#BF0000;font-weight: bold;}
+.shang-nei-three-z{float: left;width:90px ;height:32px;}
+.shang-nei-three-z ul li{float:left;text-align: center;line-height: 32px;margin-left: 3px;}
+.shang-nei-three-z ul li a{color:#BF0000;}
+.shang-nei-three-z ul li.saj{text-indent:10px;}
+.shang-nei-three-y ul li.active{font-size: 14px;font-weight: bold;background: #BE0000;}
+.shang-nei-three-y ul li.active a{color:#FFFFFF;}
+
+
+.shang-nei-four{height:30px;padding-bottom: 1px;}
+.shang-nei-four ul li{float:left;text-align: center;line-height: 30px;margin-right:20px;}
+.shang-nei-four ul li a{color: #FFFFFF;}
+
+.zhong{background: url(../img/60.jpg)-9px 0;}
+.zhong-nei{width:990px;margin: 0 auto;}
+.zhong-nei-o{width:990px;height:14px;}
+.zhong-nei-one{width:990px;height:280px;}
+.zhong-nei-one-1{width:238px;height:278px;float: left;border: 1px solid #EFE9DB;}
+.zhong-nei-one-2{width:10px;height:280px;float: left;}
+.zhong-nei-one-3{width:530px;height:280px;float: left;position: relative;overflow: hidden;}
+.zhong-nei-one-4{width:10px;height:280px;float: left;}
+.zhong-nei-one-5{width:198px;height:278px;float: left;border: 1px solid #EFE9DB;}
+.zhong-nei-one-1 ul li{display: block;height:69px;border-bottom: 1px solid #EFE9DB;}
+.zhong-nei-one-1 ul li.an{height:68px;border-bottom: none;}
+.zhong-nei-one-3-wen{width: 530px;height:30px;position: absolute;bottom: 0px;}
+.zhong-nei-one-3-wen ul li{display: block;width:131px;height:30px;float: left;background: #988C84;text-align: center;line-height: 30px;opacity: 0.5;}
+.zhong-nei-one-3-wen ul li.shu{width:1px;height:30px;display: block;float: left;}
+.zhong-nei-one-3-wen ul li a{color:#FFFFFF;}
+.zhong-nei-one-3-wen ul li.active{background: #655346;font-weight: bold;}
+.zhong-nei-one-5-title{width: 198px;height: 30px;background: url(../img/17.jpg);line-height: 30px;}
+.zhong-nei-one-5-title p{text-indent: 10px;font-size: 13px;color: #7D614B;}
+.zhong-nei-one-5-xia{width: 198px;height: 248px;}
+.zhong-nei-one-5-xia-tu{margin-left: 13px;margin-top: 13px;}
+p.zhong-nei-one-5-xia-wen{text-align: center;margin-top: 3px;color: #988C83;cursor: pointer;}
+p.ren{height: 15px;line-height: 15px;text-align: center;margin-top: 5px;}
+a.hui{color: #818181;}
+a.red{color: #FF2900;font-size: 15px;font-weight: bold;}
+a.qianhui{color: #C5C5C5;text-decoration: line-through;}
+
+.zhong-nei-two{width:990px;height:353px;}
+.zhong-nei-two-title{width:990px;height:70px;background: url(../img/61.jpg);}
+.zhong-nei-two-title img{margin-top: 35px;}
+.zhong-nei-two-s{width:990px;height:69px;}
+.zhong-nei-two-s ul li{width:140px;height:63px;display: block;float: left;background: url(../img/98.jpg);padding-top: 6px;}
+.zhong-nei-two-s ul li.shu{width:1px;height:31px;padding-top: 20px;display: block;}
+.zhong-nei-two-s ul li.active{background: url(../img/99.jpg);}
+.zhong-nei-two-heng{width: 990px;height:3px;float: left;}
+.zhong-nei-two-xia ul li{display: block;width:198px;height:210px;float: left;background: url(../img/30.jpg)100% 50% no-repeat;}
+.zhong-nei-two-xia ul li.a{background: none;}
+.zhong-nei-two-xia ul li p{text-align: center;}
+.zhong-nei-two-xia ul li p a{color: #A5836C;}
+.zhong-nei-two-xia ul li p.much{text-align: center;color: #CC0000;font-size: 13px;font-weight: bold;}
+
+.zhong-nei-three{width:990px;height:429px;}
+.zhong-nei-three-title{width:990px;height:66px;background: url(../img/61.jpg);}
+.zhong-nei-three-title img{margin-top:35px;}
+.zhong-nei-three-heng{width:990px;height:3px;}
+.zhong-nei-three-nei{width:990px;height:360px;background: #FFFFFF;}
+.zhong-nei-three-nei-l{width:652px;height:360px;float: left;}
+.zhong-nei-three-nei-z{width:175px;height:360px;float: left;position: relative;overflow: hidden;}
+.zhong-nei-three-nei-r{width:157px;height:354px;margin-left:3px;float: left;}
+.zhong-nei-three-nei-l ul li{width:162px;height:180px;float: left;display: block;background: url(../img/33.jpg)100% 90% no-repeat;}
+.zhong-nei-three-nei-l ul li.b{background: none;}
+.zhong-nei-three-nei-l ul li p{text-align: center;}
+.zhong-nei-three-nei-l ul li p a{color: #A5836C;}
+.zhong-nei-three-nei-l ul li d{text-align: center;color: #CC0000;font-size: 13px;font-weight: bold;display: block;}
+.zhong-nei-three-nei-z-yuan{width: 25px;height: 9px;position: absolute;right: 9px;bottom: 5px;}
+.zhong-nei-three-nei-z-yuan ul li{display: block;width: 10px;height: 9px;float: left;}
+.zhong-nei-three-nei-z-yuan ul li.juli{margin-right: 5px;}
+.zhong-nei-three-nei-r ul li{display: block;width:157px;height:176px;margin-top: 3px;}
+
+.xia{background: #F9EFE8;}
+.xia-nei{width:990px;margin: 0 auto;}
+.xia-nei-four{width:990px;height:431px;}
+.xia-nei-four-title{width: 990px;height:68px;}
+.xia-nei-four-title img{margin-top: 36px;}
+.xia-nei-four-heng{width:990px;height:3px;}
+.xia-nei-four-nei{width:990px;height:360px;background: #FFFFFF;}
+.xia-nei-four-nei-l{width:157px;height:354px;float: left;}
+.xia-nei-four-nei-z{width:175px;height:360px;float: left;margin-left:3px;position: relative;overflow: hidden;}
+.xia-nei-four-nei-r{width:652px;height:360px;float: left;}
+.xia-nei-four-nei-l ul li{display: block;width:157px;height:176px;margin-top: 3px;}
+.xia-nei-four-nei-z-yuan{width: 25px;height: 9px;position: absolute;right: 9px;bottom: 5px;}
+.xia-nei-four-nei-z-yuan ul li{display: block;width: 10px;height: 9px;float: left;}
+.xia-nei-four-nei-z-yuan ul li.juli{margin-right: 5px;}
+.xia-nei-four-nei-r ul li{width:162px;height:180px;float: left;display: block;background: url(../img/33.jpg)100% 90% no-repeat;}
+.xia-nei-four-nei-r ul li.b{background: none;}
+.xia-nei-four-nei-r ul li p{text-align: center;}
+.xia-nei-four-nei-r ul li p a{color: #A5836C;}
+.xia-nei-four-nei-r ul li d{text-align: center;color: #CC0000;font-size: 13px;font-weight: bold;display: block;}
+
+.xia-nei-frive{width:990px;height:434px;}
+.xia-nei-frive-title{width: 990px;height:68px;}
+.xia-nei-frive-title img{margin-top: 36px;}
+.xia-nei-frive-heng{width:990px;height:3px;}
+.xia-nei-frive-nei{width:990px;height:360px;background: #FFFFFF;}
+.xia-nei-frive-nei-l{width:652px;height:360px;float: left;}
+.xia-nei-frive-nei-z{width:175px;height:360px;float: left;position: relative;overflow: hidden;}
+.xia-nei-frive-nei-r{width:157px;height:354px;float: left;margin-left:3px;}
+.xia-nei-frive-nei-l ul li{width:162px;height:180px;float: left;display: block;background: url(../img/33.jpg)100% 90% no-repeat;}
+.xia-nei-frive-nei-l ul li.b{background: none;}
+.xia-nei-frive-nei-l ul li p{text-align: center;}
+.xia-nei-frive-nei-l ul li p a{color: #A5836C;}
+.xia-nei-frive-nei-l ul li d{text-align: center;color: #CC0000;font-size: 13px;font-weight: bold;display: block;}
+.xia-nei-frive-nei-z-yuan{width: 25px;height: 9px;position: absolute;right: 9px;bottom: 5px;}
+.xia-nei-frive-nei-z-yuan ul li{display: block;width: 10px;height: 9px;float: left;}
+.xia-nei-frive-nei-z-yuan ul li.juli{margin-right: 5px;}
+.xia-nei-frive-nei-r ul li{display: block;width:157px;height:176px;margin-top: 3px;}
+
+
+.xia-nei-six{width: 990px;height:488px;}
+.xia-nei-six-title{width:990px;height:70px;}
+.xia-nei-six-title img{margin-top: 38px;}
+.xia-nei-six-heng{width:990px;height:3px;}
+.xia-nei-six-nei{width:988px;height:415px;border: 1px solid #F0ECE0;}
+.xia-nei-six-nei-l{width:341px;height:415px;float: left;border-right: 1px solid #F0ECE0;}
+.xia-nei-six-nei-z{width:303px;height:415px;float: left;border-right: 1px solid #F0ECE0;}}
+.xia-nei-six-nei-r{width:341px;height:415px;float: left;}
+.xia-nei-six-nei-l ul li.kl{border-bottom: 1px solid #F0ECE0;}
+.xia-nei-six-nei-z ul li.kl{border-bottom: 1px solid #F0ECE0;}
+.xia-nei-six-nei-r ul li{border-bottom: 1px solid #F0ECE0;}
+.xia-nei-six-nei-r ul li.kl{border-bottom: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fu{width:38px;height:76px;position:fixed; right:220px;bottom: 10px;z-index: 100;border: 1px solid #ebebeb;border:1px solid #ebebeb;border-bottom: none;}
+.ka{height: 38px;float: left;cursor: pointer;width: 38px;text-align: center;background: #F5F5F5;border-bottom: 1px solid #ebebeb;}
+.fu em{text-decoration: none;margin: 3px auto 0;width:24px;line-height: 16px;font-size: 12px;display: block;}
+
+
+
+

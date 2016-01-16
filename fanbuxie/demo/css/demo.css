@@ -1,0 +1,17 @@
+img{vertical-align: top;}
+.box5{background: #E6E3DC;}
+.shang,.abc,.nei1,.nei2{width: 1000px;margin:0 auto;}
+.neirong{background: #121212;height:80px;overflow: hidden;border-bottom: 1px solid #010101;}
+.neirong .left{float: left;height:80px;}
+.neirong .right{float: right;}
+.neirong .right li{float: left;margin-top: 10px;background: url(../img/5.jpg) 100% 50% no-repeat;padding-right: 2px;margin-left: 6px;}
+.neirong .right li.last{background: none;}
+.neirong .right a,.neirong .right a img{width: 60px;height:60px;overflow: hidden;display: block;}
+.nav{height:29px;border-top: 1px solid #343434;}
+.nav li{float: left;width: 98px;font-size: 14px;font-weight: bold;background: url(../img/6.jpg)100% 50% no-repeat;padding-right: 2px;text-align: center;}
+.nav li a{color:#D6D5D5;line-height: 29px;}
+.nav li.last{background: none;}
+.box{background: url(../img/7.jpg);}
+.box2 .bac{height:425px;}
+.box2{background:url(../img/9.jpg)50% 0 no-repeat;}
+.nei2{margin-top:40px;}

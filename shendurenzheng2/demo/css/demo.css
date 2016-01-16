@@ -1,0 +1,12 @@
+.box2,.box{width: 1000px;margin:0 auto;}
+.tou{background: #121212;height: 80px;overflow:hidden;border-bottom: 1px solid #010101;}
+.tou .left{float: left;}
+.tou .right{float: right;margin-top:5px;}
+.tou li{background: url(../img/5.jpg) 100% 50% no-repeat;float:left;padding-right:2px;}
+.tou li.last{background:none;}
+.tou .right a,.tou.right a img{height: 70px;overflow: hidden;width:70px;display:block;}
+.daohang{height: 30px;border-top: 1px solid #353535;overflow: hidden;}
+.daohang ul li{float: left;background: url(../img/6.jpg) 100% 50% no-repeat;padding-right: 24px;margin-left: 20px;}
+.daohang ul li a{line-height: 30px;color:#D9D3D5;}
+.frist{height:112px;background: url(../img/7.jpg);}
+body{background: #FBE4C5;}

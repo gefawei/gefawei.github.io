@@ -1,0 +1,11 @@
+.box,.toptext{width:1000px;margin:0 auto;}
+.head{background: #121212;height: 80px;overflow: hidden;border-bottom: 1px solid #010101;}
+.head .left{float:left;}
+.head .right{float: right;margin-top: 10px;}
+.head li{float: left;background: url(../img/5.jpg) 100% 50% no-repeat;padding-right:2px;}
+.head li.none{background: none;}
+.nav{height: 30px;border-top: 1px solid #343434;overflow: hidden;}
+.nav ul li{float: left;background: url(../img/6.jpg) 100% 50% no-repeat;padding-right:24px;margin-left: 20px;}
+.nav ul li a{color: #D6D5D3;line-height:30px;}
+.top{background: url(../img/7.jpg);height: 112px;}
+body{background: #FBE4C5;}
